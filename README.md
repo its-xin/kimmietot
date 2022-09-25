@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kimmietot (Kim Georgia)
+- 👋 Hi, I’m @its-xin (Kim Georgia)
 - 👀 I’m interested in learning programming languages.
 - 🌱 I’m currently learning java, and I'm currently studying as a freshman student.
 - 💞️ I’m hoping github will help me in my studies.
